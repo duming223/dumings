@@ -1,0 +1,2 @@
+# dumings
+this dumings reporsitory！
